@@ -1,0 +1,95 @@
+The subdomain: https://old.ivodimitrov.pro/
+
+AppID is: vpaas-magic-cookie-acb8109abf50432b957b01435848b538
+
+API Key: vpaas-magic-cookie-acb8109abf50432b957b01435848b538/54c60b
+
+
+
+-----BEGIN PRIVATE KEY-----
+
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDT2ZHs5kVhhsWa
+
+IVkWcneyxFeMBqJX4rwfmeRADS5kw8Em5j9/oSNio0eU8wGtIXuNYHNU7A6Spq4c
+
+NQoRh+5V1Ze4y1fy32Zi/OHaH7TcW7G2fGsOa7DPoulbzvWvEhTMU+5tnflWVG7A
+
+VRfV+9XWZ12yXTFfRX/tAMCIQaxDB8QruQZDx3uuJ1djVwXoAdHYJjq+kRFWVwmH
+
+Nppi+d2Xq6pVNMG4zSoKRGh7/f/E6VXWP8WA4j2gwdMlNpkEJbWOr+mVSMh2wJih
+
+znnTAUlNkneL3lO4kLeyruPnz72AjIm2ozZU6vCq92hBdW6C3lsq4gpyVUwqcQ3E
+
+n+nVjCfHAgMBAAECggEAWmkS9tg7Kej7cdDjlUnavac/eZnnNLyl7pKdr5wwfX5x
+
+cyl2VgCt+k2WogGnaHzOnsJX1hk8CugpjA4ystKhK26RZqMZcKRYrMwhkxZO+HAF
+
+gszMX4YkGij7kFvdzA5aY+055vwxSd+UuG5YUtE8LFlGynUtOeyOMNZOVJg6bQwf
+
+odCBNq9tUpkEIIrErrMdVhtPUKw4liX1dY/8BECnvh2u9UBzdW3wt9rVU2DXq45k
+
+Jti3CzFUNyWFjfAcyQTrCstDFdzyiuGmvF0DkXyMjx6+6rv40qHojurS7SogCW0N
+
+HBmlcz+jBnbKO+Brq3JFOLS9XRh42mS/89ffC3vuMQKBgQDtz4y4SKvgpTKefvsg
+
+BWx3utvoMd8VG6l1T+efO/uKYg6Ywm5vH+RJNEkJb4kCmccFmjCM3WGO131dPU7n
+
+twzrh6tx2ZKyQdjznes3z2TG9KIYNoYdgHDVufHVsW+fze7ewxYzg9pS8vDby74x
+
+vURYi4gI9ONFCaEqI2GF2VyL7wKBgQDkDbGuhl+2gxTJpWMp1SYPeplh03rFpYQS
+
+4SgQ/5MUWUm64HYnfOEri2FHbpgEWZW8PNtjjHq/dWamVIR6CMEQ++l+tOkJqNNi
+
+JK9oJBEZfBC6VlDZAkCjtu8kYYy1IQAKClgQqC19w8xK6xZ1yX3++HvYAprJXXHy
+
+6PDR6x2pqQKBgHRf1+YqsemqDd5gF3YxEUZ6K7kyBpAmzEN7ScazrMGogKoio7Y/
+
+rhBgxMkYSrz6Ednc/ZtBjsc/Drs9EEr2Wh08dBqvtUkETi3RftT96bwu5M/ihrkT
+
+LKR6bSz8urpCJX3fjBLDmGh1OIbm6nkevL5z8asoY7taHgMn80Zz+wUDAoGBALQh
+
+UOguQSmTDfdcSCBBuOdfCgnoFcBJxTF4YMJUbKMVB5SxOQJltCFF3VejtjUxYYEm
+
+fI975XSW0bataVpO0diNcdfgI3W6wQRzP409d7guc7QK+579FXt6whd1acOjxjko
+
+BHlbrVr6LcI7QClXNssPEBsFq6dDxP5+GcFlOa/JAoGBAJZsW6pi+KVDVBwQg/lR
+
+9/EG4S9bOAnfoasSz00GINETjNQBpjh9EMxqRKt+iPZvt8wG1Tw3hPShzPtiUnQB
+
+TCNHf4f1gyA+lPbryz8+ah2FYr1P+NUkMq7j/++SylR0aHDBiz/o9CbeGCpHAGX9
+
+ctkWe737wfbSiyFSteysx4ad
+
+-----END PRIVATE KEY-----
+
+
+
+-----BEGIN PUBLIC KEY-----
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA09mR7OZFYYbFmiFZFnJ3
+
+ssRXjAaiV+K8H5nkQA0uZMPBJuY/f6EjYqNHlPMBrSF7jWBzVOwOkqauHDUKEYfu
+
+VdWXuMtX8t9mYvzh2h+03FuxtnxrDmuwz6LpW871rxIUzFPubZ35VlRuwFUX1fvV
+
+1mddsl0xX0V/7QDAiEGsQwfEK7kGQ8d7ridXY1cF6AHR2CY6vpERVlcJhzaaYvnd
+
+l6uqVTTBuM0qCkRoe/3/xOlV1j/FgOI9oMHTJTaZBCW1jq/plUjIdsCYoc550wFJ
+
+TZJ3i95TuJC3sq7j58+9gIyJtqM2VOrwqvdoQXVugt5bKuIKclVMKnENxJ/p1Ywn
+
+xwIDAQAB
+
+-----END PUBLIC KEY-----
+
+
+
+Here is some documentation that maybe can help you help me:
+
+https://developer.8x8.com/jaas/docs/api-keys-jwt
+
+https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe
+
+
+
+Do you need anything else?
